@@ -13,8 +13,7 @@ The model is trained with a dataset contains of 40000 images consisted of 20000 
 ## 3. Methodology
 
 <p>
-This methodology is referred to a documentation on the official TensorFlow website 
-[here] (https://www.tensorflow.org/tutorials/images/transfer_learning).</p>
+This methodology is referred to a documentation on the official TensorFlow website [here](https://www.tensorflow.org/tutorials/images/transfer_learning).</p>
 
 ### 3.1 Data Pipeline
 <p>The image data are loaded along with their corresponding labels. Firstly, the data is splitted into train-validation set with a ratio of 70:30. The validation data is then further split into two group to obtain some test data, with a ratio of 80:20. The overall train-validation-test split ratio is 70:24:6. No data augmentation is applied as the data size and variation are already sufficient.</p>

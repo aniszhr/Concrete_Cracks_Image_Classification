@@ -28,6 +28,9 @@ A global average pooling and dense layer are used as the classifier to output so
 
 The simplified illustration of the model is shown below.</p>
 
+![model_p3](https://user-images.githubusercontent.com/72061179/165106403-7b8bdaed-b212-43eb-b699-8928f1811579.png)
+
+
 ## 4. Results
 <p>The loss and accuracy are shown below.</p>
  
